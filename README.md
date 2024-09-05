@@ -1,2 +1,2 @@
-# Hacking-Tools-
-Hacking tools made by me
+# Hacking-Scripts
+Hacking scripts made by me
